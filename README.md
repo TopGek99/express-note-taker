@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of this was to take a note taking web application with a fully built front end, and implement the back end to complete the functionality. This was completed using the express package.
+The purpose of this was to take a note taking web application with a fully built front end, and implement the back end to complete the functionality. This was completed using the express package. It also notably includes a route for a delete request, to remove notes from the page.
   
 ## Table of Contents
   
